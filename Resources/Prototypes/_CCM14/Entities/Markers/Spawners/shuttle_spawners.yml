@@ -1,15 +1,15 @@
 - type: entity
-  parent: RMCSpawnerShuttle
-  id: CCMSpawnerAlamo
+  parent: CMDropshipDestination
+  id: CMDropshipDestinationAlamo
   suffix: Alamo
   components:
-  - type: GridSpawner
-    spawn: "/Maps/_CCM14/alamo.yml"
+  - type: DropshipDestination
+    spawn: "/Maps/_RMC14/alamo.yml"
 
 - type: entity
-  parent: RMCSpawnerShuttle
-  id: CCMSpawnerNormandy
+  parent: CMDropshipDestination
+  id: CMDropshipDestinationNormandy
   suffix: Normandy
   components:
-  - type: GridSpawner
-    spawn: "/Maps/_CCM14/normandy.yml"
+  - type: DropshipDestination
+    spawn: "/Maps/_RMC14/normandy.yml"

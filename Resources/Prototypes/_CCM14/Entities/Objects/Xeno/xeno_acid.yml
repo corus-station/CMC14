@@ -31,8 +31,6 @@
     state: acid2-weak #Shitcode my beloved
   - type: DamageOnCollide
     paralyze: 0
-    canRehit: false
-    armorPenetration: 20
     damage:
       types:
         Piercing: 30

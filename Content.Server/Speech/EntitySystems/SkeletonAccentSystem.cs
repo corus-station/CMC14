@@ -9,7 +9,7 @@ public sealed partial class SkeletonAccentSystem : EntitySystem
     [Dependency] private IRobustRandom _random = default!;
     [Dependency] private ReplacementAccentSystem _replacement = default!;
 
-    [GeneratedRegex(@"(?<!\w)[^aeiou]one", RegexOptions.IgnoreCase, "en-US")]
+    [GeneratedRegex(@"(?<!\w)[^aeiou]one", RegexOptions.IgnoreCase, "ru-RU")]
     private static partial Regex BoneRegex();
 
     public override void Initialize()

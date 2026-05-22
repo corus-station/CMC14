@@ -1,4 +1,3 @@
-# // CCM Xeno Strain - Boxer Warrior
 - type: entity
   parent: CMXenoWarrior
   id: CCMXenoWarriorBoxer
@@ -93,7 +92,6 @@
     maxHeal: 60
     minHeal: 40
 
-# // CCM Xeno Punch Attack Effect
 - type: entity
   parent: [WeaponArcClaw, RMCBaseEffect]
   id: CCMWeaponArcXenoPunch
@@ -105,16 +103,11 @@
     sprite: _RMC14/Effects/attacks.rsi
     state: punch
     noRot: true
-# // CCM Xeno Punch Attack Effect
-# // CCM Boxing bell sound collection
 - type: soundCollection
   id: CCMBoxingBell
   files:
   - /Audio/Weapons/boxingbell.ogg # Need that because eviscarate need collection
-# // CCM Boxing bell sound collection
-# // CCM Xeno Strain - Boxer Warrior
 
-# // CCM Xeno Strain - Melee & Ranger Sentinels
 - type: entity
   parent: CMXenoSentinel
   id: CCMXenoMeleeSentinel
@@ -226,9 +219,7 @@
       380: Critical
       480: Dead
   - type: XenoHidden
-# // CCM Xeno Strain - Melee & Ranger Sentinels
 
-# // CCM Xeno Strain - Sniper Spitter
 - type: entity
   parent: CMXenoSpitter
   id: CCMXenoSniperSpitter
@@ -304,9 +295,7 @@
     offsetLength: 3
     speed: 0.8
     doAfter: 0.5
-# // CCM Xeno Strain - Sniper Spitter
 
-# // CCM Xeno Strain - Burrower Impaler
 - type: entity
   parent: CMXenoBurrower
   id: CCMXenoBurrowerImpaler
@@ -380,8 +369,6 @@
     baseWalkSpeed: 3
   - type: DamageOnCollide
     paralyze: 2
-    canRehit: false
-    armorPenetration: 20
     damage:
       types:
         Blunt: 30
@@ -447,4 +434,3 @@
     polymorphSound: /Audio/_RMC14/Xeno/burrowing_b.ogg
     exitPolymorphSound: /Audio/_RMC14/Xeno/burrowoff.ogg
     duration: 3
-# // CCM Xeno Strain - Burrower Impaler

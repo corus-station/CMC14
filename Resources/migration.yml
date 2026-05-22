@@ -1496,3 +1496,7 @@ CMVendorBlood: AU14VendorBlood
 
 # 2026-04-29 - CMU
 ColMarTechMarineMedical: AU14GeneralMedicalVendorLight
+
+# 2026-05-22 - CCM14
+RMCAutodoc: CMUAutodocPod
+RMCBodyScanner: CMUBodyScannerPod
