@@ -1,0 +1,15 @@
+- type: construction
+  parent: RMC
+  id: CCMGirder
+  name: gabion
+  graph: CCMGabion
+  startNode: start
+  targetNode: gabion
+  category: construction-category-cm-structures
+  description: A quickly erected fortification filled with sand or earth.
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canRotate: false
+#  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked

@@ -1,0 +1,115 @@
+- type: entity
+  id: CCMActionXenoBoxerAdvance
+  parent: ActionXenoBase
+  name: Advance
+  description: Do a small jump/dash toward enemy and deal small amount of damage.
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: tumble
+    useDelay: 1.5
+  - type: TargetAction
+    range: 15
+    checkCanAccess: false
+  - type: WorldTargetAction
+    event: !type:XenoLeapActionEvent
+  - type: RMCDazeableAction
+
+- type: entity
+  parent: ActionXenoEviscerate
+  id: CCMActionXenoBoxerKnockout
+  name: Knockout!
+  description: Use your stack of boxing, and deal massive damage and little stun
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: rav_clothesline
+    useDelay: 60
+
+- type: entity
+  id: CCMActionXenoScatteredSpitSniper
+  parent: ActionXenoScatteredSpit
+  name: Structure scattered spit (105) # TODO RMC14 proper plasma costs
+  description: Spit scattered anti-structure and anti-barricade spit
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: acid_shotgun
+    useDelay: 7
+
+- type: entity
+  id: CCMActionXenoSpitSniperMulti
+  parent: ActionXenoSpit
+  name: Sniper spits (84/70)
+  description: Spit pain or acid spit
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: acid_lance
+    useDelay: 3
+
+- type: entity
+  parent: ActionXenoToggleSpitType
+  id: CCMActionXenoToggleSpitTypeSniper
+  name: Change spit type
+  description: Change from pain spit, that cause slow and pain. To acid spit that deals great burns with AP
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    backgroundOn: null
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: shift_spit_neurotoxin
+    iconOn:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: shift_spit_xeno_acid
+  - type: InstantAction
+    event: !type:XenoSpitToggleActionEvent
+
+- type: entity
+  id: CCMActionXenoGreaterParalyzingSlash
+  parent: ActionXenoParalyzingSlash
+  name: Greater Paralyzing Slash (50) # TODO RMC14 proper plasma costs
+  description: Temporarily charge up a melee attack that will stun a short time enemy after very shor delay
+
+- type: entity
+  parent: ActionXenoApprehend
+  id: CCMActionXenoLightNeuroEmpower
+  name: Light Neuro Empower
+  description: Increases your movement speed and applies a slow on the next target you slash.
+
+- type: entity
+  parent: BaseActionPolymorph
+  id: CCMActionJauntBurrow
+  name: Burrowing spike rush
+  description: Dig in ground and them rush your enemies with your back spikes
+  components:
+  - type: Action
+    useDelay: 25
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: tunnel
+  - type: InstantAction
+    event: !type:PolymorphActionEvent
+      protoId: CCMJauntBurrow
+
+- type: entity
+  parent: ActionXenoSprayAcid
+  id: CCMActionXenoBurrowerImpale
+  name: Burrowed spikes (40)
+  description: Strike with your spiked tail in ground 
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _RMC14/Actions/xeno_actions.rsi
+      state: prae_impale
+    useDelay: 13
