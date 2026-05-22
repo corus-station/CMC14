@@ -1,0 +1,9 @@
+ent-AU14BaseMobSpeciesOrganicCMB = { ent-CMMobHuman }
+    .suffix = AU14, UA, CMB
+    .desc = { ent-CMMobHuman.desc }
+ent-AU14SatchelCMBShotgun = { ent-RMCSatchelTSEPA }
+    .suffix = Filled, CMB Shotgunner
+    .desc = { ent-RMCSatchelTSEPA.desc }
+ent-AU14BeltHolsterPistolCMBHG45 = { ent-RMCBeltHolsterPistolTSE }
+    .suffix = CMB, Filled, HG45
+    .desc = { ent-RMCBeltHolsterPistolTSE.desc }

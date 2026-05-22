@@ -1,0 +1,12 @@
+ent-AU14MK86Mount = mk86 automatic grenade launcher
+    .desc = The disassembled Mk86 AGL, with its telescopic tripods folded up and unable to fire.
+ent-AU14AGLMK86 = mk86 automatic grenade launcher
+    .desc = The top half of a Mk86 AGL. However it ain't much use without a tripod.
+ent-AU14MagazineMk86Frag = Mk86 Ammunition Box (AGM-F 40mm frag grenade)
+    .desc = A box of 15, AGM-F 40mm frag grenade rounds for the mk86 automatic grenade launcher system.
+ent-AU14MagazineMk86Hornet = Mk86 Ammunition Box (AGM-H 40mm hornet grenade)
+    .desc = A box of 15, AGM-H 40mm hornet grenade rounds for the mk86 automatic grenade launcher system.
+ent-AU14MagazineMk86Smoke = Mk86 Ammunition Box (AGM-S 40mm smoke grenade)
+    .desc = A box of 15, AGM-S 40mm smoke grenade rounds for the mk86 automatic grenade launcher system.
+ent-AU14Mk86Case = Mk86 automatic grenade launcher case
+    .desc = A gun case containing the Mk86 automatic grenade launcher. Comes with 5 magazines

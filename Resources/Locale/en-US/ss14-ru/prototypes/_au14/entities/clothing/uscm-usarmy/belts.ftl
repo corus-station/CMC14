@@ -1,0 +1,12 @@
+ent-AU14BeltPostelPistolM48A5 = { ent-RMCBeltHolsterPistol }
+    .suffix = Filled, M48A5
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+ent-AU14BeltPostelPistolM48A5Surv = { ent-RMCBeltHolsterPistol }
+    .suffix = Filled, Surv, M48A5
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+ent-AU14BeltPostelPistolM48A4 = { ent-RMCBeltHolsterPistol }
+    .suffix = Filled, M48A4
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+ent-AU14BeltPostelPistolM48A5NoSuper = { ent-RMCBeltHolsterPistol }
+    .suffix = Filled, M48A5, No Suprt
+    .desc = { ent-RMCBeltHolsterPistol.desc }

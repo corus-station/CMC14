@@ -1,0 +1,15 @@
+ent-AU14WebbingMagazine = magazine webbing
+    .desc = Synthcotton webbing with three pockets to hold your magazines.
+ent-AU14WebbingDumpPouch = dump pouch webbing
+    .desc = A pouch to dump your empty mags into.
+ent-AU14WebbingUtility = utility webbing
+    .desc = A synthcotton webbing vest with lots of pockets to hold whatever you need, but cannot hold in hands.
+ent-AU14WebbingDropPouch = drop pouch
+    .desc = A convenient pouch to carry loose items around.
+ent-AU14WebbingAdminPouch = admin pouch
+    .desc = A pouch to carry your administrative equipment around.
+ent-AU14WebbingKnives = knife webbing
+    .desc = An older generation knife vest. Can hold up to 5 knives. It is made of synthcotton.
+ent-AU14WebbingKnivesFilled = { ent-AU14WebbingKnives }
+    .suffix = Filled
+    .desc = { ent-AU14WebbingKnives.desc }

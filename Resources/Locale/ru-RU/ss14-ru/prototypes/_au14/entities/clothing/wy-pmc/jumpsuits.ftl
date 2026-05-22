@@ -1,0 +1,12 @@
+ent-AU14WYPMCFatigues = WY PMC Fatigues
+    .desc = A standard set of Weyland-Yutani PMC Fatigues. It has shards of light Kevlar to help protect against shrapnel.
+ent-AU14JumpsuitVeteranPMCCorporate = We-Yu corporate security uniform
+    .desc = An armored uniform worn by We-Yu corporate security members. This variant is commonly worn by what are known as 'goons'.
+    .suffix = AU14
+ent-AU14JumpsuitVeteranPMCCorporateLead = We-Yu corporate security uniform
+    .desc = An armored uniform worn by We-Yu corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
+    .suffix = AU14
+ent-AU14WYPMCFatiguesEngineer = WY PMC Engineer Fatigues
+    .desc = A standard set of Weyland-Yutani PMC Engineer Fatigues. It has shards of light Kevlar to help protect against shrapnel.
+ent-AU14WYGuardFatigues = WY Guard Fatigues
+    .desc = A standard set of Weyland-Yutani Guard Fatigues. It has shards of light Kevlar to help protect against shrapnel.

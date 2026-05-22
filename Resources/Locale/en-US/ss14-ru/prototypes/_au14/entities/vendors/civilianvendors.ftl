@@ -1,0 +1,15 @@
+ent-AU14CivilianClothingVendor = Civilian Clothing Wardrobe
+    .desc = A wardrobe containing all the clothes a civilian would ever need.
+    .suffix = Civ
+ent-AU14CivilianEngineerVendor = Civilian Engineering and Logistics Vendor
+    .desc = A vendor containing all the equipment an engineer or logistician would ever need.
+    .suffix = Civ
+ent-AU14CivilianMedicalClothingVendor = Civilian Medical Vendor
+    .desc = A wardrobe containing all the clothes and supplies medical personnel would ever need.
+    .suffix = Civ
+ent-AU14CivilianEmergencyResponderOfficerVendor = Civilian Emergency Response Officer Vendor
+    .desc = A wardrobe containing all the clothes and supplies an ERO would ever need.
+    .suffix = Civ
+ent-AU14CivilianColonyOperationsSyntheticVendor = Civilian Colony Operations Synthetic Vendor
+    .desc = A wardrobe containing all the clothes and supplies a COS would ever need.
+    .suffix = Civ

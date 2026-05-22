@@ -1,0 +1,14 @@
+ent-AU14GogglesM1A1ClearBallistic = clear M1A1 ballistic goggles
+    .desc = Newer issue USCM goggles. They are capable of preventing insects, dust, and other things from getting into one's eyes.
+ent-AU14GogglesM1A1Ballistic = M1A1 ballistic goggles
+    .desc = Newer issue USCM goggles. They are capable of preventing insects, dust, and other things from getting into one's eyes.
+ent-AU14GogglesM1A1DarkBallistic = dark M1A1 ballistic goggles
+    .desc = Newer issue USCM goggles. They are capable of preventing insects, dust, and other things from getting into one's eyes.
+ent-AU14GogglesM60 = M60 ballistic goggles
+    .desc = Older issue USCM goggles. They are capable of preventing insects, dust, and other things from getting into one's eyes.
+ent-AU14GogglesM1A1LaserBallistic = laser shielded M1A1 ballistic goggles
+    .desc = Newer issue USCM goggles. They are capable of preventing insects, dust, and other things from getting into one's eyes. Also protects your eyes from lasers!
+ent-AU14GogglesM1A1PolarizedBallistic = ventrax polarized goggles
+    .desc = On the market as civilian goggles, the brand’s pretty ambiguous, but they seem to be made by Ventrax, a subsidiary of some other Wey-Yu subsidiary. Figures. They were probably meant for skiing, you don’t really remember or care. Surprisingly, they make decent combat goggles... at least better than the M1A1s or God forbid, those M60s. The LT says the colored lens will get you killed by a sniper... but at least you’ll die looking cool.
+ent-AU14GogglesM1A1OrangeBallistic = ventrax orange goggles
+    .desc = On the market as civilian goggles, the brand’s pretty ambiguous, but they seem to be made by Ventrax, a subsidiary of some other Wey-Yu subsidiary. Figures. They were probably meant for skiing, you don’t really remember or care. Surprisingly, they make decent combat goggles... at least better than the M1A1s or God forbid, those M60s. You swear the orange tint makes you see better at night.

@@ -1,0 +1,10 @@
+ent-AU14WYPMCHelmet = WY PMC Helmet
+    .desc = A WY PMC helmet.
+ent-AU14WYPMCSniperHat = WY PMC Sniper Hat
+    .desc = A WY PMC helmet.
+ent-AU14ArmorHelmetPMCTactical = WY PMC Tactical Helmet
+    .desc = A contender for service with the Royal Marines Commandos, it is presently, exclusively, field tested by Weyland-Yutani mercenaries. Features a ballistic mask and integrated display connected to the visor.
+ent-AU14ArmorHelmetPMCTacticalEngi = WY PMC Tactical Engineer Helmet
+    .desc = A contender for service with the Royal Marines Commandos, it is presently, exclusively, field tested by Weyland-Yutani mercenaries. Features a ballistic mask and integrated display connected to the visor.
+ent-AU14WYPMCHelmetHeavy = WY PMC Heavy Helmet
+    .desc = A WY PMC helmet.

@@ -1,0 +1,17 @@
+ent-AU14GeneralMedicalVendor = We-Yu Medical Supply Vendor
+    .desc = An automated supply vendor hooked up to a storage of medical supplies.
+    .suffix = AU14 MED
+ent-AU14VendorBlood = WeYu Blood Dispenser
+    .desc = The WeYu Med-Sci Brand Blood Pack Dispensary is the premier, top-of-the-line blood dispenser of 2105! Get yours today!
+    .suffix = AU14 MED
+ent-AU14VendorBloodField = WeYu Field Blood Dispenser
+    .desc = The WeYu Med-Sci Brand Blood Pack Dispensary is the premier, top-of-the-line blood dispenser of 2105! Get yours today!
+    .suffix = AU14 MED
+ent-AU14VendorBloodFieldPowered = { ent-AU14VendorBloodField }
+    .suffix = Powered
+    .desc = { ent-AU14VendorBloodField.desc }
+ent-AU14GeneralMedicalVendorLight = WeYu Medical Field Supply Vendor
+    .desc = Medical Pharmaceutical dispenser with basic medical supplies.
+ent-AU14GeneralMedicalVendorLightAlwaysPowered = { ent-AU14GeneralMedicalVendorLight }
+    .suffix = Powered
+    .desc = { ent-AU14GeneralMedicalVendorLight.desc }

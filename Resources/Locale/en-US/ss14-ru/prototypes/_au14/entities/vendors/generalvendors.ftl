@@ -1,0 +1,13 @@
+ent-AU14VendorKoorCigs = Koorlander Cigarette Machine
+    .desc = Manufactured by the Koorlander Corporation as part of their "Worker Morale Suite," these vending units were once standard issue for deep-bore miners, orbital rig crews and indentured work colonies. When Koorlander realized it was more profitable to sell cigarettes than drill oil or move rock, they laid off 32000 workers overnight and pivoted entirely to tobacco production. The machines stayed behind, now full of the only thing they still make.
+ent-AU14CivilianSnowflakeVendor = Snowflake Clothing Vendor
+    .desc = A vendor containing all the clothes you would ever need. You're such a fuckin' snowflake huh... so special.
+    .suffix = Civ
+ent-AU14JOGenericVendor = junior officer equipment rack
+    .desc = An automated rack hooked up to a small storage of junior officer equipment.
+ent-AU14MilitaryPolicemanGenericVendor = military policeman equipment rack
+    .desc = An automated rack hooked up to a small storage of military police equipment.
+ent-AU14MilitaryDoctorGenericVendor = military doctor equipment rack
+    .desc = An automated rack hooked up to a small storage of military doctor equipment.
+ent-AU14VendorBundleMilitaryDoctorEssentials = essential doctor set
+    .desc = Essential doctor equipment.

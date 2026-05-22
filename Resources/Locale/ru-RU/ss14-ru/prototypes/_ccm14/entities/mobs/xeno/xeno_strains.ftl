@@ -1,4 +1,4 @@
-﻿ent-CCMXenoWarriorBoxer = Воин
+ent-CCMXenoWarriorBoxer = Воин
     .desc = Мускулистый инопланетянин с бронированным панцирем.
     .suffix = Боксёр
 ent-CCMWeaponArcXenoPunch = { ent-WeaponArcClaw }

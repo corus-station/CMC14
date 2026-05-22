@@ -1,0 +1,9 @@
+ent-AU14BaseMobSpeciesOrganicUSArmy = { ent-CMMobHuman }
+    .suffix = AU14, UA, US Army
+    .desc = { ent-CMMobHuman.desc }
+ent-AU14BeltHolsterPistolUSArmyFull = { ent-RMCBeltHolsterPistol }
+    .suffix = Full, AU14, US Army
+    .desc = { ent-RMCBeltHolsterPistol.desc }
+ent-AU14AU14MolleBackpackCOFull = { ent-AU14MolleBackpack }
+    .suffix = Full, AU14, US Army
+    .desc = { ent-AU14MolleBackpack.desc }

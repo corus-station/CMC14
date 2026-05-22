@@ -1,0 +1,16 @@
+ent-AU14ObjectiveItemPortableRadioTransceiver = AN/PRC-982 portable radio transceiver box
+    .desc = A gray radio box that is used to receive long-range communications. It also records all radio traffic it receives.
+ent-AU14ObjectiveItemBlackboxRecorder = CIR-60 'blackbox' colony information recorder
+    .desc = A small red box that records colony announcements, colonist flatlines and other key readouts. Usually refered to the black box, although this one comes in bloody red.
+ent-AU14ObjectiveItemAtmosphericRadarStorageUnit = ARCS-9 atmospheric radar data storage unit
+    .desc = A black data box that is used to store information from atmospheric radar arrays.
+ent-AU14ObjectiveItemWYLaptop = Weyland-Yutani bioweapons division laptop
+    .desc = A portable computer containing research data from Weyland-Yutani's Bioweapons Division.
+ent-AU14ObjectiveItemTheaterHandbook = Theater Operations Handbook
+    .desc = A highly classified book containing the battle plans of a major faction within the current theater of war.
+ent-AU14ObjectiveItemNuclearLaunchCodes = Nuclear Launch Codes Booklet
+    .desc = A highly classified book containing nuclear launch codes.
+ent-AU14ObjectiveItemAIProcessor = AI Processor
+    .desc = An external processor for an AI, used to process vast amounts of information.
+ent-AU14ObjectiveItemHackableComputer = field operations computer
+    .desc = A ruggedized military laptop containing encrypted communications data. It can be hacked to extract critical intelligence.

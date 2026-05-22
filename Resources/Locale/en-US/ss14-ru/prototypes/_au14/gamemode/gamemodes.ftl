@@ -1,0 +1,14 @@
+ent-PlatoonSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-AddGovfor = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-AddOpfor = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-AddClf = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-ColonyAntags = Colony Antags
+    .desc = Randomly rolls for each colony antag to be present this round.
+ent-AuVoteRule = Colony Antags
+    .desc = If you want your mode to load planets and platoons automatically
+ent-RemoveAllJobs = Remove All Jobs
+    .desc = Removes all jobs on the planet's main station prior to round start. Optionally removes jobs on ship stations.

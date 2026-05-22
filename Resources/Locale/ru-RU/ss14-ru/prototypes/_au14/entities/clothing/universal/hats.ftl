@@ -1,0 +1,12 @@
+ent-AU14HeadBeretIO = intelligence officer beret
+    .desc = A distinctive crimson beret worn by intelligence officers. Reinforced with flexible Kevlar, it offers minimal protection while maintaining a traditional and respected appearance.
+ent-AU14HeadBeretSO = staff officer beret
+    .desc = A beret with the staff officer insignia emblazoned on it.
+ent-AU14HeadBeretADJ = adjutant beret
+    .desc = A beret with the adjutant insignia emblazoned on it.
+ent-AU14HeadBeretCommander = commander beret
+    .desc = A beret with the adjutant insignia emblazoned on it.
+ent-AU14HeadCommandoBeanie = Beanie
+    .desc = A beanie to hide your bald head. Looks strangely similar to the beanie used by the LACN Naval Commandos.
+ent-AU14HeadBeanieclava = { ent-AU14HeadCommandoBeanie }
+    .desc = { ent-AU14HeadCommandoBeanie.desc }

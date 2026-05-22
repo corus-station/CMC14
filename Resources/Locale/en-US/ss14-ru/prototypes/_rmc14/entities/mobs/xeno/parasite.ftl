@@ -1,0 +1,10 @@
+ent-CMXenoParasiteBase = Facehugger
+    .desc = { ent-CMXenoUndeveloped.desc }
+ent-CMXenoParasite = { ent-CMXenoParasiteBase }
+    .desc = { ent-CMXenoParasiteBase.desc }
+ent-RMCXenoParasiteWatcher = { ent-CMXenoParasiteBase }
+    .suffix = Watcher
+    .desc = { ent-CMXenoParasiteBase.desc }
+ent-RMCXenoParasitePrimeHiveAssign = { ent-CMXenoParasite }
+    .suffix = Auto-Assign, Prime Hive
+    .desc = { ent-CMXenoParasite.desc }

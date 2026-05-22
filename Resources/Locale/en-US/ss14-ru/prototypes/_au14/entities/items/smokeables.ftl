@@ -1,0 +1,6 @@
+ent-AU14CigarettePackBalajj = balaji imperial packet
+    .desc = A pack of Balaji Imperials. Hand-rolled, filter-tipped cigarettes produced in the Three World Empire by the Balaji family of companies. Still family-run after six generations, the company’s known for mixing high-grade synthetic tobacco with trace amounts of real leaf. Expensive, smooth, and a favorite among officers and smugglers alike.
+ent-AU14CigaretteKoorlander = koorlander packet
+    .desc = First handed out in bulk to terraforming crews as a no-frills necessity, these cigarettes lit easily, burned evenly, and offered a straightforward, dependable smoke. The flat, dusty flavor and steady draw quickly made them a colonial staple. Koorlander later scaled production on frontier farming worlds and locked in exclusive trade deals with the Colonial Administration.
+ent-AU14CigaretteLadyFingers = koorlander lady fingers packet
+    .desc = A bold experiment in marketing by the Koolander Corporation, these brutal, unfiltered menthol cigarettes come in dusty rose packaging aimed at the women of the Colonies. The scent is so overpowering that they are sometimes used to keep bugs out of field tents. Despite the effort, they are rarely chosen and mostly sit untouched in vending machines, quietly daring someone to try. Whether anyone actually likes them is another question.

@@ -1,0 +1,10 @@
+ent-ActionApeLeap = Leap
+    .desc = Jump towards a given location and knock down the first enemy hit.
+ent-ActionApeDestroy = Destroy
+    .desc = After a short time, jump to the targeted location, destroying structures and gibbing hostiles within a 3x3 range. Works over barricades and other short barriers.
+ent-ActionApeCharge = Charge
+    .desc = Ape-specific charge. Click on a tile to wind up and charge to it, stunning and damaging foes hit.
+ent-ActionApeRam = Ram
+    .desc = Ape-specific ram. Target an enemy to ram them, costing a small amount of plasma.
+ent-ActionApeHeadbite = Headbite
+    .desc = Ape-specific headbite that applies the headbite effect to unconscious targets.

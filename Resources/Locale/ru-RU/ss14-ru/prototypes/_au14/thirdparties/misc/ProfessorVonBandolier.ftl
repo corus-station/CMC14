@@ -1,0 +1,17 @@
+ent-AU14PartyJobProfessorVonBandolier = Professor Von Bandolier
+    .desc = { ent-AU14BaseMobSpeciesOrganicMisc.desc }
+ent-AU14M276ShotgunShellLoadingRigBlackVonBandolier = { ent-AU14M276ShotgunShellLoadingRigBlack }
+    .suffix = Filled, Professor Von Bandolier
+    .desc = { ent-AU14M276ShotgunShellLoadingRigBlack.desc }
+ent-CMArmorDutchJacketVonBandolier = { ent-CMArmorDutchJacket }
+    .suffix = Filled, Professor Von Bandolier
+    .desc = { ent-CMArmorDutchJacket.desc }
+ent-RMCPouchMedkitVonBandolier = { ent-RMCPouchMedkit }
+    .suffix = Filled, Professor Von Bandolier
+    .desc = { ent-RMCPouchMedkit.desc }
+ent-RMCPouchMagazinePistolLargeVonBandolier = { ent-RMCPouchMagazinePistolLarge }
+    .suffix = Filled, Professor Von Bandolier
+    .desc = { ent-RMCPouchMagazinePistolLarge.desc }
+ent-RMCBeltHolsterRevolverVonBandolier = { ent-RMCBeltHolsterRevolver }
+    .suffix = Filled, Professor Von Bandolier
+    .desc = { ent-RMCBeltHolsterRevolver.desc }

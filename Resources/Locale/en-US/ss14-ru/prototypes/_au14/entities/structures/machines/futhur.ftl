@@ -1,0 +1,17 @@
+ent-AU14AICoreFARTHURGOVFOR = FAR/TH/UR 2600 A.I.
+    .desc = This is the artificial intelligence system for monitoring the space ships, colonies or stations. It is manufactured by Weyland-Yutani.
+    .suffix = AU14, GOVFOR
+ent-AU14AICoreFARTHUROPFOR = FAR/TH/UR 2600 A.I.
+    .desc = This is the artificial intelligence system for monitoring the space ships, colonies or stations. It is manufactured by Weyland-Yutani.
+    .suffix = AU14, OPFOR
+ent-AU14AICoreCPUFARTHUR = FAR/TH/UR 2600 A.I. CPU
+    .desc = This is FAR/TH/UR's central processor. Made of a casing designed to withstand nuclear blasts, the CPU also contains FAR/TH/UR's blackbox recorder.
+ent-AU14AICoreSubstrateFARTHUR = FAR/TH/UR 2600 A.I. Substrate
+    .desc = The memory substrate of FAR/TH/UR, containing complex protocols and information. Limited capabilities can operate on substrate alone, without the main FAR/TH/UR Unit operational.
+ent-FARTHURAICoreProcessor = FAR/TH/UR 2600 A.I. Processor
+    .desc = An external processor for FAR/TH/UR, used to process vast amounts of information.
+ent-AU14AreaGAAIFARTHUR = FAR/TH/UR 2600 A.I. Interface
+    .desc = { ent-RMCAreaGA.desc }
+ent-AU14ChairComfyAIFARTHUR = FAR/TH/UR 2600 A.I. interface chair
+    .suffix = AU14, FARTHUR
+    .desc = { ent-CMChairComfyARES.desc }

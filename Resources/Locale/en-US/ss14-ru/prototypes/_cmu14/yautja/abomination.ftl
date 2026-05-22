@@ -1,0 +1,14 @@
+ent-CMUActionYautjaAbominationRush = { ent-ActionXenoBase }
+    .desc = { ent-ActionXenoBase.desc }
+ent-CMUActionYautjaAbominationRoar = { ent-ActionXenoBase }
+    .desc = { ent-ActionXenoBase.desc }
+ent-CMUActionYautjaAbominationSmash = { ent-ActionXenoBase }
+    .desc = { ent-ActionXenoBase.desc }
+ent-CMUActionYautjaAbominationFrenzy = { ent-ActionXenoBase }
+    .desc = { ent-ActionXenoBase.desc }
+ent-CMUActionYautjaAbominationToggleFrenzy = { ent-ActionXenoBase }
+    .desc = { ent-ActionXenoBase.desc }
+ent-CMUXenoPredalienLarva = Predalien Larva
+    .desc = { ent-CMXenoUndeveloped.desc }
+ent-CMUXenoAbomination = Abomination
+    .desc = A towering hybrid xenomorph born from dishonored Yautja blood.

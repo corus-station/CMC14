@@ -1,0 +1,14 @@
+ent-AU14ArmorGarbShinGuardsUPP = UM5 shin guards
+    .desc = An armor piece made to be used in combination with kestrel pattern armor.
+ent-AU14ArmorGarbShoulderPadsUPP = UM5 shoulder pads
+    .desc = An armor piece made to be used in combination with kestrel pattern armor.
+ent-AU14ArmorGarbCrotchPadUPP = UM5 crotch pad
+    .desc = An armor piece made to be used in combination with kestrel pattern armor.
+ent-AU14ArmorGarbMagazineWebbingUPP = Type 41 pattern magazine webbing
+    .desc = A magazine webbing made to be attached to the outside of personal armor.
+ent-AU14ArmorGarbLargeWebbingUPP = Type 41 pattern large webbing
+    .desc = A large webbing made to be attached to the outside of personal armor.
+ent-AU14ArmorGarbSmallWebbingUPP = Type 41 pattern small webbing
+    .desc = A small webbing made to be attached to the outside of personal armor.
+ent-AU14ArmorGarbJunglePonchoUPP = Type 41 jungle rain poncho
+    .desc = A poncho made to be used in combination with personal armor.

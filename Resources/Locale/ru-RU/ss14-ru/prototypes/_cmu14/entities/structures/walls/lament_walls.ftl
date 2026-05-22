@@ -1,0 +1,12 @@
+ent-CMUWallLamentRockDark = rock wall
+    .desc = A rough wall of hardened rock.
+ent-CMUWallLamentRock = rock wall
+    .desc = A rough wall of hardened rock.
+ent-CMUFogWallLamentWaterfallMist = waterfall mist
+    .desc = The mist of a waterfall, there might be something behind it!
+ent-CMUFogWall45 = { ent-RMCFogWall25 }
+    .suffix = 45 minutes
+    .desc = { ent-RMCFogWall25.desc }
+ent-CMUFogWall45NotCF = { ent-CMUFogWall45 }
+    .suffix = 45 minutes, Not Colony Fall
+    .desc = { ent-CMUFogWall45.desc }

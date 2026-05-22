@@ -1,0 +1,10 @@
+ent-RMCCrateMortarKit = M402 mortar crate (Mortar x1, Mortar shell backpack x1)
+    .desc = { ent-RMCCrateWeapons.desc }
+ent-RMCCrateMortarShellHE = M402 mortar shells crate (x6 HE)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-RMCCrateMortarShellIncendiary = M402 mortar shells crate (x6 HE-INC)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-RMCCrateMortarShellFlare = M402 mortar shells crate (x6 ILLUM-OBS)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-AU14CrateMortarShellHEATMP = M402 mortar shells crate (x6 HEAT-MP)
+    .desc = { ent-RMCCrateMortarAmmo.desc }

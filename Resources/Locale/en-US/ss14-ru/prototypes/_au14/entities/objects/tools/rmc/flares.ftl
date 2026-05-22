@@ -1,0 +1,14 @@
+ent-AU14FlareRMC = { ent-CMFlare }
+    .desc = An RMC issued flare that burns in both the visual and ultraviolet spectrum. There are instructions on the side, it reads 'pull cord, make light'.
+    .suffix = Alt
+ent-AU14PackFlareBaseRMC = L96 marking flare pack
+    .desc = A packet of eight M94 Marking Flares. Carried by Marine soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp.
+    .suffix = Alt
+ent-AU14PackFlareRMC = { ent-AU14PackFlareBaseRMC }
+    .suffix = Filled, Alt
+    .desc = { ent-AU14PackFlareBaseRMC.desc }
+ent-AU14BoxPackFlareRMCEmpty = box of L96 flare packs (x10)
+    .desc = A box of L96 marking flare packs, to brighten up your day.
+ent-AU14BoxPackFlareRMC = { ent-AU14BoxPackFlareRMCEmpty }
+    .suffix = Filled, Alt
+    .desc = { ent-AU14BoxPackFlareRMCEmpty.desc }

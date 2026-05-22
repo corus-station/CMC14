@@ -1,0 +1,14 @@
+ent-AU14HeadTurbanRMC = royal marine turban
+    .desc = A standard military turban found in the Three World Empire Royal Marines Commando. Considered a rare item, these kind of turbans are prized by collectors.
+ent-AU14HeadBeretRMC = royal marine beret
+    .desc = A green beret belonging to the Three World Empire Royal Marines Commando.
+    .suffix = AU14
+ent-AU14HeadBeretRMCLead = royal marine sergeant beret
+    .desc = A green beret belonging to the Three World Empire Royal Marines Commando.
+    .suffix = AU14
+ent-AU14HeadBeretRMCOfficer = royal marine officer beret
+    .desc = A green beret belonging to the Three World Empire Royal Marines Commando.
+    .suffix = AU14
+ent-AU14HeadCapOfficerRMC = royal marine officer peaked cap
+    .desc = Gray peaked cap belonging to the Three World Empire Royal Marines Commando officer. Shown to show your men who's the boss.
+    .suffix = AU14

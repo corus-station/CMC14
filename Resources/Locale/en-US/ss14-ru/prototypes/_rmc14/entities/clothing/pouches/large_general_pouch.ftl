@@ -1,0 +1,14 @@
+ent-RMCPouchGeneralLarge = large general pouch
+    .desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeFilledSmartGunDrums = { ent-RMCPouchGeneralLarge }
+    .suffix = Filled, Smart Gun Drums
+    .desc = { ent-RMCPouchGeneralLarge.desc }
+ent-RMCPouchGeneralLargeFilledRoyalCommando = { ent-RMCPouchGeneralLarge }
+    .suffix = Filled, RoyalCommando
+    .desc = { ent-RMCPouchGeneralLarge.desc }
+ent-RMCPouchGeneralLargeFilledSPPCommand = { ent-RMCPouchGeneralLarge }
+    .suffix = Filled, SPP
+    .desc = { ent-RMCPouchGeneralLarge.desc }
+ent-RMCPouchGeneralLargeFilledParaCO = { ent-RMCPouchGeneralLarge }
+    .suffix = Survivor, Paramarine, Filled, CO
+    .desc = { ent-RMCPouchGeneralLarge.desc }

@@ -1,0 +1,16 @@
+ent-CMUXenoKudzu = roots
+    .desc = A weird, rapidly growing cluster of roots.
+    .suffix = Xeno, Kudzu
+ent-CMUXenoKudzuSource = { "" }
+    .desc = { "" }
+ent-CMUSentryXenoKudzu = xeno turret
+    .desc = Shoots 9mm acid projectiles.
+    .suffix = Xeno, Kudzu
+ent-CMUSentryXenoKudzuBig = big xeno turret
+    .desc = Shoots .700in acid projectiles.
+ent-CMUBulletAcid = { ent-BulletAcid }
+    .desc = { ent-BulletAcid.desc }
+ent-CMUBulletAcidBig = big acid spit
+    .desc = { ent-BulletAcid.desc }
+ent-FactionXeno = { "" }
+    .desc = { "" }

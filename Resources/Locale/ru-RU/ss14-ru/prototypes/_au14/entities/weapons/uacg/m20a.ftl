@@ -1,0 +1,11 @@
+ent-AUWeaponRifleM20A = M20a Pulse Rifle
+    .desc = More commonly known as the Harrington Rifle, a past designation of the USCMC and the phased out predecessor of the M41A Pulse Rifle. More commonly seen in the hands of territorial guard or in colony armories for emergencies.
+    .suffix = Filled
+ent-AU14MagazineRifleM20A = M20a Magazine (10x24mm)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-AU14CartridgeRifleM20A = Cartridge (10x24mm)
+    .desc = A 10x24mm rifle cartridge
+ent-AU14BulletRifleM20A = { ent-RMCBaseBullet }
+    .desc = { ent-RMCBaseBullet.desc }
+ent-AU14AttachmentM20AUnderbarrelShotgun = M20A underbarrel shotgun
+    .desc = { ent-RMCUnderAttachmentBase.desc }

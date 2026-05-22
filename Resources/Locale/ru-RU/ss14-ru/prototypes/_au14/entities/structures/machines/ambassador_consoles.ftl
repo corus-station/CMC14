@@ -1,0 +1,14 @@
+ent-AU14AmbassadorConsoleBase = ambassador console
+    .desc = A console for diplomatic functions and third party communication.
+ent-AU14AmbassadorConsoleUPP = UPP diplomatic console
+    .desc = A Union of Progressive Peoples diplomatic console. Can request GROM special forces support.
+    .suffix = UPP, GROM
+ent-AU14AmbassadorConsoleUA = UA diplomatic console
+    .desc = A United Americas diplomatic console. Can request US Army or VAI support.
+    .suffix = UA, Army
+ent-AU14AmbassadorConsoleTWE = TWE diplomatic console
+    .desc = A Three World Empire diplomatic console. Can request NSPA or Royal Marines' support.
+    .suffix = TWE, PMC
+ent-AU14AmbassadorConsoleIS = ICSC diplomatic console
+    .desc = An Independent Core System Colonies diplomatic console.
+    .suffix = ICSC, PMC

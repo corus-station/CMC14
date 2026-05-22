@@ -6,7 +6,7 @@ import chardet
 from datetime import datetime
 
 def find_top_level_dir(start_dir):
-    marker_file = 'SpaceStation14.sln'
+    marker_file = 'SpaceStation14.slnx'
     current_dir = start_dir
     while True:
         if marker_file in os.listdir(current_dir):

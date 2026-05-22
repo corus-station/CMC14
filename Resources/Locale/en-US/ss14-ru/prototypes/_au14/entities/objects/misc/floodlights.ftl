@@ -1,0 +1,12 @@
+ent-AU14TallFloodlight = tall floodlight
+    .desc = A pillar of light in the darkness.
+    .suffix = AU14
+ent-AU14FloodlightBroken = tall broken floodlight
+    .desc = A pasted on note says 'To fix, unscrew the panel, crowbar out the damaged assembly, weld it fixed, add 2 cable, then close the panel.'
+    .suffix = AU14
+ent-AU14Streetlight = colony streetlight
+    .suffix = AU14
+    .desc = { ent-AU14TallFloodlight.desc }
+ent-AU14StreetlightBroken = broken colony streetlight
+    .desc = A pasted on note says 'To fix, unscrew the panel, crowbar out the damaged assembly, weld it fixed, add 2 cable, then close the panel.'
+    .suffix = AU14

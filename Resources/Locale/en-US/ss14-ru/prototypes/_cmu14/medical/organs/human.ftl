@@ -1,0 +1,16 @@
+ent-CMUOrganHumanHeart = { ent-OrganHumanHeart }
+    .desc = { ent-OrganHumanHeart.desc }
+ent-CMUOrganHumanLungs = { ent-OrganHumanLungs }
+    .desc = { ent-OrganHumanLungs.desc }
+ent-CMUOrganHumanLiver = { ent-OrganHumanLiver }
+    .desc = { ent-OrganHumanLiver.desc }
+ent-CMUOrganHumanKidneys = { ent-OrganHumanKidneys }
+    .desc = { ent-OrganHumanKidneys.desc }
+ent-CMUOrganHumanStomach = { ent-OrganHumanStomach }
+    .desc = { ent-OrganHumanStomach.desc }
+ent-CMUOrganHumanBrain = { ent-OrganHumanBrain }
+    .desc = { ent-OrganHumanBrain.desc }
+ent-CMUOrganHumanEyes = { ent-OrganHumanEyes }
+    .desc = { ent-OrganHumanEyes.desc }
+ent-CMUOrganHumanEars = { ent-OrganHumanEars }
+    .desc = { ent-OrganHumanEars.desc }

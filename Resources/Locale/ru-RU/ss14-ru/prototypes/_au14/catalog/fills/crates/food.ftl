@@ -1,0 +1,9 @@
+ent-AU14CrateFoodMRERMC = RMC ration pack crate
+    .suffix = RM
+    .desc = { ent-RMCCratePlastic.desc }
+ent-AU14CrateFoodMREUPP = UPP ration pack crate
+    .suffix = UPP
+    .desc = { ent-RMCCratePlastic.desc }
+ent-AU14CrateHydroponics = { ent-RMCCrateHydro }
+    .suffix = Filled
+    .desc = { ent-RMCCrateHydro.desc }

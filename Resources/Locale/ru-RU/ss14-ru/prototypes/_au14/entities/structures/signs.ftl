@@ -1,0 +1,12 @@
+ent-AU14LandingSignBase = sign
+    .desc = A sign.
+ent-AU14LandingSignStableSpacePort = Albacetire spaceport sign
+    .desc = A large sign reading 'Albacetire Spaceport'.
+ent-AU14LandingSignStableColony = Albacetire colony sign
+    .desc = A large sign reading 'Welcome to Garrison One - Albacetire Outer Rim'.
+ent-AU14LandingSignBaseMilitary = sign
+    .desc = A sign.
+ent-AU14LandingSignStableMilitary = joint base schaefer sign
+    .desc = A large sign reading 'Joint Base Schaefer'.
+ent-AU14LandingSignStableMilitaryDirty = joint base schaefer sign
+    .desc = A large sign reading 'Joint Base Schaefer'.

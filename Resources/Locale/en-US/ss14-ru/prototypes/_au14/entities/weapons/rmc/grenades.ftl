@@ -1,0 +1,9 @@
+ent-AU14GrenadeHighExplosiveRMC = R2175/A HEDP grenade
+    .suffix = RM
+    .desc = { ent-CMGrenadeHighExplosive.desc }
+ent-AU14GrenadeIncendiaryRMC = R2175/B HIDP grenade
+    .suffix = RM
+    .desc = { ent-RMCGrenadeIncendiary.desc }
+ent-AU14GrenadeNeuroRMC = R2175/CN20 grenade
+    .desc = A small grenade containing a vial of deadly nerve gas. Usually knocks out the targets for long enough to allow RMCs to take them out. You can almost hear your Instructor's screaming in the back of your head, mentioning something about a gas mask. It is set to detonate in 3.5 seconds.
+    .suffix = RM

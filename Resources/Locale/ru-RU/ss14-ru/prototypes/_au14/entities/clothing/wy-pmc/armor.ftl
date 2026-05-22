@@ -1,0 +1,11 @@
+ent-AU14WYPMCArmor = WY PMC Armor
+    .desc = A set of Weyland-Yutani PMC armor.
+ent-AU14WYPMCArmorMin = WY PMC Minimalistic Armor
+    .desc = A set of Weyland-Yutani PMC armor. This pair is quite small compared to the standard, and will provide less protection.
+ent-AU14SuitBioWeYu = WeYu-TSS MK I - bio suit
+    .desc = The 'Weyland-Yutani TerraScientia bio-suit MK I'. An advanced light-weight bio-suit developed in-house by Weston-Yamada. It's a suit that protects against biological contamination.
+    .suffix = AU14, Generic, WeYu
+ent-AU14WYPMCArmorEngineer = WY PMC Engineer Armor
+    .desc = A set of Weyland-Yutani PMC Engineer armor.
+ent-AU14WYPPOArmor = WY PPO Armor
+    .desc = A set of Weyland-Yutani Personal Protection Officer armor. This pair is quite small compared to the standard, and will provide less protection.

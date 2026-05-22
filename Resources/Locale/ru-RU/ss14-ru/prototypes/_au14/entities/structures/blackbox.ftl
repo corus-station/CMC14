@@ -1,0 +1,2 @@
+ent-AU14BlackBoxRecorder = colony blackbox recorder
+    .desc = An ICC mandated data recorder installed in all UA, UPP and TWE registered colonies. Engineered to survive catastrophic events, it continuously logs critical environmental, structural and operational data. In the event of a disaster, it enables investigators to reconstruct the sequence of events and determine the root cause of failure. This one however, is not red.

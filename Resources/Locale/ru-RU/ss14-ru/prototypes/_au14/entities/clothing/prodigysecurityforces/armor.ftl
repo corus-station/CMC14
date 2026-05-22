@@ -1,0 +1,12 @@
+ent-CMUArmorProdigyFlakVest = flak webbing vest
+    .desc = A light flak vest.
+ent-CMUArmorProdigyFlakVestAlt = flak vest
+    .desc = A light flak vest.
+ent-CMUArmorProdigyFlakVestMedical = medical flak vest
+    .desc = A light flak vest.
+ent-AU14ArmorProdigyXAS23 = PRU-XAS-23 pattern battle armor
+    .desc = Tougher than steel, quieter than whispers, the PRU-XAS-23 Pattern Battle Armor provides capable protection combined with an experimental integrated motion tracker. It took an R&D team a weekend to develop and costs more than the Romulus Station... probably. When worn, uniform accessories such as webbing cannot be attached due to the motion sensors occupying the clips, although the expanded storage on the physical armor makes up for it. Due to its awkardness it requires the clips on the Prodigy Response Unit uniform to wear.
+ent-AU14ArmorProdigyXAS23G = PRU-XAS-23-G pattern battle armor
+    .desc = Tougher than steel, quieter than whispers, the PRU-XAS-23-G Pattern Battle Armor provides capable protection for smart gunners, ditching the built in motion detector for SG rigs. When worn, uniform accessories such as webbing cannot be attached due to the gunner rig occupying the clips, although the expanded storage on the physical armor makes up for it. Due to its awkwardness and increased armor from the normal model it requires the clips on the Prodigy Response Unit uniform to wear.
+ent-AU14ArmorProdigyXAS23S = PRU-XAS-23-S pattern battle armor
+    .desc = Tougher than kevlar, quieter than whispers, the PRU-XAS-23-S Pattern Battle Armor provides capable protection for synthetics, combined with an experimental integrated motion trackers. When worn, uniform accessories such as webbing cannot be attached due to the motion detector occupying the clips, although the expanded storage on the physical armor makes up for it. Due to its awkwardness and lighter armor from the normal model it requires the clips on the Prodigy Response Unit uniform to wear.

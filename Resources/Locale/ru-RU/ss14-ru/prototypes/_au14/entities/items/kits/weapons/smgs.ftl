@@ -1,0 +1,16 @@
+ent-AU14KitWeaponMP5 = MP5 submachine gun case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponP90 = P90 personal defense weapon case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponL90A2 = L90A2 personal defense weapon case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponM39 = M39 submachine gun case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponM39B2 = M39B/2 submachine gun case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponFP9000 = FP9000/2 submachine gun case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponType64 = type 64 submachine gun case
+    .desc = { ent-RMCKitBase.desc }
+ent-AU14KitWeaponXMP5A6 = XMP5A6/10 CQW case
+    .desc = { ent-RMCKitBase.desc }

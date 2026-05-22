@@ -1,0 +1,12 @@
+ent-AU14IDCardRMCRRTBreacher = RMC RRT breacher ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardRMCRRTCommander = RMC RRT commander ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardRMCRRTCorpsman = RMC RRT corpsman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardRMCRRTMarksman = RMC RRT marksman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardRMCRRTRifleman = RMC RRT rifleman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardRMCRRTSmartgunner = RMC RRT machinegunner ID card
+    .desc = { ent-CMIDCardBase.desc }

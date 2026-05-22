@@ -1,0 +1,12 @@
+ent-CMURandomFloraTree = random tree spawner
+    .suffix = CMU
+    .desc = { ent-MarkerBase.desc }
+ent-CMURandomFloraTreeSnow = random tree snow spawner
+    .suffix = CMU
+    .desc = { ent-MarkerBase.desc }
+ent-CMURandomFloraTreeLarge = random tree large spawner
+    .suffix = CMU
+    .desc = { ent-MarkerBase.desc }
+ent-CMURandomFloraTreeConifer = random tree conifer spawner
+    .suffix = CMU
+    .desc = { ent-MarkerBase.desc }
