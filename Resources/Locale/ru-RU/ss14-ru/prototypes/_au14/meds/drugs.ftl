@@ -1,0 +1,10 @@
+ent-AU14DrugDealerDrugBottle = Speed Demon Bottle
+    .desc = { ent-PillCanister.desc }
+ent-AU14PillSpeedDemon = Speed Demon Pill
+    .desc = A pill containing the dangerous street drug Speed Demon.
+ent-AU14PillBottleSpaceDrugs = Bottle of LSD Pills
+    .desc = { ent-PillCanister.desc }
+ent-AU14PillRMCPsilocybin = Grounded Mushrooms Pill
+    .desc = A pill containing the psychoactive compound Psilocybin.
+ent-AU14PillBottleRMCPsilocybin = Bottle of Psilocybin Pills
+    .desc = { ent-PillCanister.desc }

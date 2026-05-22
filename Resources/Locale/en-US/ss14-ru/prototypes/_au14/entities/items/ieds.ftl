@@ -1,0 +1,10 @@
+ent-AU14RemoteSignallerAdvanced = ProtonCall XL Portable Telephone
+    .desc = A Weyland-Yutani brickphone made by a subsidiary of their communications division. Probably pried from the dead hands of some corporate shmuck. This one’s being used for dialing CLF IEDs. Someone etched 'Fuck the United Americas' into the side.
+ent-AU14IED = improvised explosive device
+    .desc = A remote explosive designed to cripple foot soldiers and lightly armored vehicles. A saboteur’s and insurgent’s favorite tool of terror. Be careful... its very unstable.
+ent-AU14IEDLarge = huge improvised explosive device
+    .desc = A rather large remote explosive designed to cripple foot soldiers and lightly armored vehicles. A saboteur’s and insurgent’s favorite tool of terror. Be careful... its very unstable.
+ent-AU14IEDVest = improvised explosive vest
+    .desc = A worn suicide explosive vest designed to cripple foot soldiers. Those who use it will never return...
+ent-AU14IEDGuide = improvised explosives guide
+    .desc = { ent-CMPaperWritten.desc }

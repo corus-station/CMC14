@@ -1,0 +1,14 @@
+ent-AU14AICoreMUTHURCivilian = MU/TH/UR 6000 A.I.
+    .desc = This is the artificial intelligence system for monitoring the space ships, colonies or stations. It is manufactured by Weyland-Yutani.
+    .suffix = AU14, Colony
+ent-AU14AICoreCPUMUTHUR = MU/TH/UR 6000 A.I. CPU
+    .desc = This is MU/TH/UR's central processor. Made of a casing designed to withstand nuclear blasts, the CPU also contains MU/TH/UR's blackbox recorder.
+ent-AU14AICoreSubstrateMUTHUR = MU/TH/UR 6000 A.I. Substrate
+    .desc = The memory substrate of MU/TH/UR, containing complex protocols and information. Limited capabilities can operate on substrate alone, without the main MU/TH/UR Unit operational.
+ent-MUTHURAICoreProcessor = MU/TH/UR 6000 A.I. Processor
+    .desc = An external processor for MU/TH/UR, used to process vast amounts of information.
+ent-AU14AreaGAAIMUTHUR = MU/TH/UR 6000 A.I. Interface
+    .desc = { ent-RMCAreaGA.desc }
+ent-AU14ChairComfyAIMUTHUR = MU/TH/UR 6000 A.I. interface chair
+    .suffix = AU14, MUTHUR
+    .desc = { ent-CMChairComfyARES.desc }

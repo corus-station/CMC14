@@ -1,0 +1,3 @@
+ent-DecorSignMinesProp = mines
+    .desc = danger of mines and death...
+    .suffix = Prop

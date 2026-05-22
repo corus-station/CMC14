@@ -1,0 +1,12 @@
+ent-AU14CaseSentry = 571-C sentry gun case
+    .desc = A gun case containing the 571-C sentry unit and a spare drum.
+ent-AU14CaseSentryMini = 512-M mini sentry gun case
+    .desc = A gun case containing the 512-M sentry unit and a spare drum.
+ent-AU14CaseSentrySniper = 725-D sniper sentry gun case
+    .desc = A gun case containing the 725-D sniper sentry unit and a spare drum.
+ent-AU14CaseSentryShotgun = 12-G shotgun sentry gun case
+    .desc = A gun case containing the 12-G shotgun sentry unit and a spare drum.
+ent-AU14CaseSentryFlamer = 55-FA assault sentry flamer case
+    .desc = A gun case containing the 55-FA assault sentry unit and a spare drum.
+ent-AU14CaseSentryFlamerMini = 45-FM mini sentry flamer case
+    .desc = A gun case containing the 45-FM mini sentry unit and a spare drum.

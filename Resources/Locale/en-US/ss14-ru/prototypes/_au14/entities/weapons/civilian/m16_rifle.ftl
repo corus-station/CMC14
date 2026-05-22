@@ -1,0 +1,9 @@
+ent-AU14WeaponRifleM16A1 = M16A1 rifle
+    .desc = An old, reliable design first adopted by the U.S. military in the 1960s. Something like this belongs in a museum of war history. It is chambered in 5.56x45mm.
+    .suffix = Filled
+ent-AU14WeaponRifleM16A2 = M16A2 rifle
+    .desc = An old, reliable design first adopted by the U.S. military in the 1980s. Something like this belongs in a museum of war history. It is chambered in 5.56x45mm.
+ent-AU14WeaponRifleM16A2Larue = M16A2 Larue rifle
+    .desc = An 'improved' pattern of M16A2 recently released on the civilian market, proclaiming it is 'cutting edge modularity and optics friendliness on a budget' It met limited success in it's intended market It has seen stable but small sales regardless.
+ent-AU14WeaponRifleAR10 = AR10 rifle
+    .desc = An old, reliable design. Something like this belongs in a museum of war history. It is chambered in 5.56x45mm.

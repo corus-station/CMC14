@@ -1,0 +1,9 @@
+ent-CMUMobCarpInvasive = invasive carp
+    .desc = It's an invasive species of carp. Adapted to hunt up hill both ways.
+    .suffix = CMU
+ent-ActionCarpTumble = Tumble
+    .desc = { ent-ActionXenoTumble.desc }
+ent-ActionCarpRam = Ram
+    .desc = { ent-ActionXenoRam.desc }
+ent-ActionCarpTailLash = Tail Lash
+    .desc = { ent-ActionXenoTailLash.desc }

@@ -1,0 +1,13 @@
+ent-CMUAutodocPod = autodoc pod
+    .desc = An automated surgical pod. A trained surgeon can queue procedures from its linked console.
+ent-CMUAutodocConsole = autodoc console
+    .desc = A dedicated terminal for queuing procedures on a nearby autodoc pod.
+ent-CMUBodyScannerPod = body scanner pod
+    .desc = A full-body diagnostic scanner with an enclosed patient bay.
+ent-CMUBodyScannerConsole = body scanner console
+    .desc = A medical console for reviewing enclosed body scans and calibrating surgical assistance.
+ent-CMULimbPrinter = limb printer
+    .desc = A surgical bioprinter that grows replacement human arms and legs from matrix reagent and a blood sample.
+ent-CMULimbPrinterMatrixBeaker = biogenic matrix beaker
+    .suffix = CMU, Filled
+    .desc = { ent-CMBeakerLarge.desc }

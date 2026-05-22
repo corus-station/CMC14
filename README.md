@@ -1,3 +1,4 @@
+<p align="center"> <img alt="Space Station 14" width="400" height="400" src="https://github.com/user-attachments/assets/51a5b8f3-9068-4eeb-8caa-c6c9439118d7" /></p>
 
 CMU is a multiplayer sandbox game set in the Alien universe. It is a fork of RMC14, itself based on CM13, and incorporates assets from a variety of sources (copyright information is included in each metadata file).
 

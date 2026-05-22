@@ -1,0 +1,14 @@
+ent-AU14DefibrillatorCabinet = LifePak 15 Cabinet
+    .desc = A wall mounted cabinet designed to hold a LifePak 15.
+ent-CMUDefibrillatorCabinetFilled = { ent-AU14DefibrillatorCabinet }
+    .suffix = Filled, CMU14
+    .desc = { ent-AU14DefibrillatorCabinet.desc }
+ent-AU14DefibrillatorCabinetOpen = { ent-DefibrillatorCabinet }
+    .suffix = Open
+    .desc = { ent-DefibrillatorCabinet.desc }
+ent-AU14DefibrillatorCabinetFilled = { ent-DefibrillatorCabinet }
+    .suffix = Filled
+    .desc = { ent-DefibrillatorCabinet.desc }
+ent-AU14DefibrillatorCabinetFilledOpen = { ent-DefibrillatorCabinetFilled }
+    .suffix = Filled, Open
+    .desc = { ent-DefibrillatorCabinetFilled.desc }

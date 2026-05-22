@@ -1,0 +1,10 @@
+ent-AU14CashVendorBase = vending machine
+    .desc = Insert cash and select an item to purchase.
+ent-AU14CashVendorShopkeepBase = { ent-AU14CashVendorBase }
+    .desc = { ent-AU14CashVendorBase.desc }
+ent-AU14CashDrinkMachine = WY Refreshments
+    .desc = A Weyland-Yutani branded beverage dispenser. Insert cash to purchase a drink. Prices subject to colonial sales tax.
+    .suffix = Cash, Drinks
+ent-AU14CashSnackMachine = WY Provisions
+    .desc = A Weyland-Yutani branded snack dispenser. Insert cash to purchase a snack. Prices subject to colonial sales tax.
+    .suffix = Cash, Snacks

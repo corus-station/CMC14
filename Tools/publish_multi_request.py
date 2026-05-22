@@ -15,8 +15,7 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://cmu-cdn.cm-ss13.com/"
-FORK_ID = "cmu"
+ROBUST_CDN_URL = "https://cdn.corvaxcm.space/"
 
 
 def main():

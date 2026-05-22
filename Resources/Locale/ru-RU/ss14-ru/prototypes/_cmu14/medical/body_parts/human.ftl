@@ -1,0 +1,12 @@
+ent-CMUPartHumanTorso = { ent-TorsoHuman }
+    .desc = { ent-TorsoHuman.desc }
+ent-CMUPartHumanHead = { ent-HeadHuman }
+    .desc = { ent-HeadHuman.desc }
+ent-CMUPartHumanLeftArm = { ent-LeftArmHuman }
+    .desc = { ent-LeftArmHuman.desc }
+ent-CMUPartHumanRightArm = { ent-RightArmHuman }
+    .desc = { ent-RightArmHuman.desc }
+ent-CMUPartHumanLeftLeg = { ent-LeftLegHuman }
+    .desc = { ent-LeftLegHuman.desc }
+ent-CMUPartHumanRightLeg = { ent-RightLegHuman }
+    .desc = { ent-RightLegHuman.desc }

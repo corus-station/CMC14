@@ -1,0 +1,14 @@
+ent-AU14IDCardUPPGROMCommander = UPP GROM Commander ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMMachinegunner = UPP GROM Machinegunner ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMMarksman = UPP GROM Marksman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMPointman = UPP GROM Pointman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMRifleman = UPP GROM Rifleman ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMSquadleader = UPP GROM Squad Leader ID card
+    .desc = { ent-CMIDCardBase.desc }
+ent-AU14IDCardUPPGROMSupportTech = UPP GROM Support Tech ID card
+    .desc = { ent-CMIDCardBase.desc }

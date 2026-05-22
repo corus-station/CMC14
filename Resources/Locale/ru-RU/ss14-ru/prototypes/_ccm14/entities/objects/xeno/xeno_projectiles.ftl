@@ -1,0 +1,10 @@
+ent-CCMXenoGreatSlowingSpitProjectile = greater slowing spit
+    .desc = { ent-XenoBaseProjectile.desc }
+ent-CCMXenoGreatScatteredSpitProjectile = great scattered spit
+    .desc = { ent-XenoBaseProjectile.desc }
+ent-CCMXenoSpitProjectileSniper = spit
+    .desc = { ent-XenoSpitImpactSounds.desc }
+ent-CCMXenoSpitProjectileSniperPain = neurotoxic spit
+    .desc = { ent-XenoSpitImpactSounds.desc }
+ent-CCMXenoSpitProjectileSniperStructural = spit
+    .desc = { ent-XenoSpitImpactSounds.desc }

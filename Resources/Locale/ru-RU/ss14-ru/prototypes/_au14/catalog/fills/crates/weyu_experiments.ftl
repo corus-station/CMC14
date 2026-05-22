@@ -1,0 +1,15 @@
+ent-AU14CrateSecureWeYuXenoEggs = secure We-Yu crate
+    .desc = A secure crate with We-Yu insignia on it.
+    .suffix = AU14, Xeno Eggs
+ent-AU14CrateSecureWeYuMindBreaker = secure We-Yu crate
+    .suffix = AU14, MindBreaker
+    .desc = { ent-AU14CrateSecureWeYuXenoEggs.desc }
+ent-AU14CrateSecureWeYuDrug = secure We-Yu crate
+    .suffix = AU14, Speed Demon
+    .desc = { ent-AU14CrateSecureWeYuXenoEggs.desc }
+ent-AU14CrateSecureWeYuMMI = secure We-Yu crate
+    .suffix = AU14, MMI
+    .desc = { ent-AU14CrateSecureWeYuXenoEggs.desc }
+ent-AU14CrateSecureWeYuClottedSyringes = secure We-Yu crate
+    .suffix = AU14, Clotted Syringes
+    .desc = { ent-AU14CrateSecureWeYuXenoEggs.desc }

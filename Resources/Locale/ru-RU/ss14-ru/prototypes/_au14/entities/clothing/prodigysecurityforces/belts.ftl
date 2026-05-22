@@ -1,0 +1,10 @@
+ent-AU14BeltUtilityCombatProdigyRU = L177 Prodigy pattern combat toolbelt rig
+    .desc = Standart-issue Royal Marines Commando rig of the Prodigy Armed Repair Teams for Response Units conducting repairs within combat zones. It consists of a modular belt with various clips and pouches for tools along with a holster for a sidearm. Due to the bulk of the sidearm and one magazine.
+ent-AU14BeltUtilityCombatProdigyRUFilled = { ent-AU14BeltUtilityCombatRMC }
+    .suffix = Filled
+    .desc = { ent-AU14BeltUtilityCombatRMC.desc }
+ent-AU14BeltMedicBagProdigy = PSC-TM626 pattern medical bag
+    .desc = The PSC-TM626 is the standard load-bearing equipment of the Prodigy security forces. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics, sources say its just a W-Y TM625 bag, but Prodigy denies this claim.
+ent-AU14BeltMedicBagProdigyFilled = PSC-TM626 pattern medical bag
+    .desc = The PSC-TM626 is the standard load-bearing equipment of the Prodigy security forces. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics, sources say its just a W-Y TM625 bag, but Prodigy denies this claim.
+    .suffix = Filled, Pills

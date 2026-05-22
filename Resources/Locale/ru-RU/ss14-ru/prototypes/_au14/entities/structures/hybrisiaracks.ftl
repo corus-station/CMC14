@@ -1,0 +1,14 @@
+ent-AU14WeymartRacks1 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks2 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks3 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks4 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks5 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks6 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.
+ent-AU14WeymartRacks7 = store rack
+    .desc = A bunch of metal shelves stacked on top of eachother, with items for sale lined up on the shelves.

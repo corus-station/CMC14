@@ -1,0 +1,12 @@
+ent-AU14FatiguesDesertRMC = desert royal marine fatigues
+    .desc = Standart-issue Three World Empire Royal Marines Commando fatigues.
+ent-AU14FatiguesBlackRMC = black royal marine fatigues
+    .desc = { ent-AU14FatiguesDesertRMC.desc }
+ent-AU14FatiguesDesertRMCTeamlead = desert royal marine team leader fatigues
+    .desc = Standart-issue Three World Empire Royal Marines Commando fatigues. Usually worn by sergeants or officers.
+ent-AU14FatiguesBlackRMCTeamlead = black royal marine team leader fatigues
+    .desc = { ent-AU14FatiguesDesertRMCTeamlead.desc }
+ent-AU14FatiguesServiceRMC = royal marine service uniform
+    .desc = Standart-issue Three World Empire Royal Marines Commando service uniform. Usually worn by officers.
+ent-AU14PilotJumpsuitRMC = royal marine aircrew jumpsuit
+    .desc = A standard RMC Aircrew Jumpsuit. It has shards of light Kevlar to help protect against shrapnel.

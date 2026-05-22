@@ -1,0 +1,12 @@
+ent-CMUBloodImpactEffect = { "" }
+    .desc = { "" }
+ent-CMUBloodImpactEffect1 = { ent-CMUBloodImpactEffect }
+    .desc = { ent-CMUBloodImpactEffect.desc }
+ent-CMUBloodImpactEffect2 = { ent-CMUBloodImpactEffect }
+    .desc = { ent-CMUBloodImpactEffect.desc }
+ent-CMUYautjaBloodImpactEffect = { ent-CMUBloodImpactEffect }
+    .desc = { ent-CMUBloodImpactEffect.desc }
+ent-CMUYautjaBloodImpactEffect1 = { ent-CMUYautjaBloodImpactEffect }
+    .desc = { ent-CMUYautjaBloodImpactEffect.desc }
+ent-CMUYautjaBloodImpactEffect2 = { ent-CMUYautjaBloodImpactEffect }
+    .desc = { ent-CMUYautjaBloodImpactEffect.desc }

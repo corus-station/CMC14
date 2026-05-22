@@ -1,0 +1,14 @@
+ent-AU14HybrisaExtinguisherCabinet = extinguisher cabinet
+    .desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-CMUHybrisaExtinguisherCabinetFilled = { ent-AU14HybrisaExtinguisherCabinet }
+    .suffix = Filled, CMU14
+    .desc = { ent-AU14HybrisaExtinguisherCabinet.desc }
+ent-AU14ExtinguisherCabinetOpen = { ent-ExtinguisherCabinet }
+    .suffix = Open
+    .desc = { ent-ExtinguisherCabinet.desc }
+ent-AU14ExtinguisherCabinetFilled = { ent-ExtinguisherCabinet }
+    .suffix = Filled
+    .desc = { ent-ExtinguisherCabinet.desc }
+ent-AU14ExtinguisherCabinetFilledOpen = { ent-ExtinguisherCabinetFilled }
+    .suffix = Filled, Open
+    .desc = { ent-ExtinguisherCabinetFilled.desc }

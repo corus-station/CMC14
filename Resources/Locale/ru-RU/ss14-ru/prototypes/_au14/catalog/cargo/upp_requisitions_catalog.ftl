@@ -1,0 +1,2 @@
+ent-UPPCargoCatalog = { "" }
+    .desc = { "" }

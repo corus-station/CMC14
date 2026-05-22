@@ -1,0 +1,9 @@
+ent-CMUMobApe = Ape
+    .desc = A capable and dangerous megafauna, high caloric needs.
+    .suffix = CMU
+ent-OrganApeStomach = stomach
+    .desc = { ent-OrganAnimalStomach.desc }
+ent-OrganApeLiver = liver
+    .desc = { ent-OrganAnimalLiver.desc }
+ent-OrganApeHeart = heart
+    .desc = { ent-OrganAnimalHeart.desc }

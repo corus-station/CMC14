@@ -1,0 +1,12 @@
+ent-AU14SpawnerCorpseUSCMRifleman = Corpse Spawner - USCM Rifleman
+    .desc = { ent-RMCSpawnerCorpse.desc }
+ent-AU14SpawnerCorpseUSCMRifleman2 = Corpse Spawner - USCM Rifleman 2
+    .desc = { ent-RMCSpawnerCorpse.desc }
+ent-AU14SpawnerCorpseUSCMRifleman3 = Corpse Spawner - USCM Rifleman 3
+    .desc = { ent-RMCSpawnerCorpse.desc }
+ent-AU14SpawnerCorpseUSCMSquadLeader = Corpse Spawner - USCM Squad Leader
+    .desc = { ent-RMCSpawnerCorpse.desc }
+ent-AU14SpawnerCorpseUSASFPilot = Corpse Spawner - USASF Pilot
+    .desc = { ent-RMCSpawnerCorpse.desc }
+ent-AU14SpawnerCorpseUSASFPilot2 = Corpse Spawner - USASF Pilot 2
+    .desc = { ent-RMCSpawnerCorpse.desc }

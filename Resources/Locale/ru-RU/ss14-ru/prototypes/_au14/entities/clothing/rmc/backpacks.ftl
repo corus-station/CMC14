@@ -1,0 +1,12 @@
+ent-AU14SmallBackpackRMC = royal marine small backpack
+    .desc = The standard-issue pack of TWE forces. Designed to lug gear into the battlefield.
+ent-AU14FrameBackpackRMC = royal marine backpack frame
+    .desc = The standard-issue pack of RMC forces. Designed to lug gear into the battlefield.
+ent-AU14BackpackRMC = royal marine medium backpack
+    .desc = The standard-issue pack of TWE forces. Designed to lug gear into the battlefield.
+ent-AU14CorpsmanBackpackRMC = royal marine medical backpack
+    .desc = The standard-issue pack of TWE forces. Designed to lug gear into the battlefield. This one has a red cross on it.
+ent-AU14LargeBackpackRMC = royal marine large backpack
+    .desc = A large pack. Designed to engineering equipment and explosives into the battlefield.
+ent-AU14WelderBackpackRMC = royal marine welderpack
+    .desc = A specialized backpack worn by RMC technicians. It carries a fueltank for quick welder refueling and use.

@@ -1,0 +1,9 @@
+ent-AU14BaseMobSpeciesOrganicFORECON = { ent-CMMobHuman }
+    .suffix = AU14, UA, FORECON
+    .desc = { ent-CMMobHuman.desc }
+ent-AU14BeltSmartGunOperatorPistolForeconFilled = { ent-RMCBeltSmartGunOperatorPistol }
+    .suffix = Full, AU14, FORECON
+    .desc = { ent-RMCBeltSmartGunOperatorPistol.desc }
+ent-AU14ArmorSmartGunJungleCombatHarnessForeconFilled = { ent-AU14ArmorSmartGunJungleCombatHarness }
+    .suffix = Full, AU14, FORECON
+    .desc = { ent-AU14ArmorSmartGunJungleCombatHarness.desc }

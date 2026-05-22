@@ -1,0 +1,9 @@
+ent-AU14WeaponRifleF44AA = F44AA pulse rifle
+    .desc = F44AA is an electronic pulse-action assault rifle. Manufactured by the Weyland-Yutani, the rifle is equipped with an amining assist computer and safety.
+ent-AU14WeaponRifleF44AALock = { ent-AU14WeaponRifleF44AA }
+    .suffix = ID lock
+    .desc = { ent-AU14WeaponRifleF44AA.desc }
+ent-AU14MagazineRifleF44AA = F44AA magazine (10x24mm)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-AU14AttachmentF44AAStockCollapsible = F44AA folding stock
+    .desc = The standard back end of any gun starting with F44AA.

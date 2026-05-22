@@ -1,0 +1,9 @@
+ent-RMCHoodBioGeneral = bio hood
+    .desc = A hood that protects the head and face from biological contaminants.
+    .suffix = Generic, RMC
+ent-RMCHoodBioWeYa = WeYu-TSS MK II - bio hood
+    .desc = The 'Weyland-Yutani TerraScientia bio-suit MK II'. An advanced light-weight bio-suit developed in-house by Weston-Yamada. It's a hood that protects the head and face from biological contaminants, synthetic compliant. Offers no real protection.
+    .suffix = Generic, WeYu
+ent-RMCHoodBioWeYaAlt = WeYu-TSS MK I - bio hood
+    .desc = The 'Weyland-Yutani TerraScientia bio-suit MK I'. An advanced light-weight bio-suit developed in-house by Weston-Yamada. It's a hood that protects the head and face from biological contaminants.
+    .suffix = Generic, WeYu, Alt

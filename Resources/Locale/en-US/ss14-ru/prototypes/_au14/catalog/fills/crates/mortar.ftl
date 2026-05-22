@@ -1,0 +1,10 @@
+ent-AU14CrateMortarKitRMC = L53A1 light mortar crate (Light L53A1 Mortar Kit x1, Mortar shell backpack x1)
+    .desc = { ent-RMCCrateWeapons.desc }
+ent-AU14CrateMortarShellHERMC = L53A1 light mortar shells crate (x12 HE)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-AU14CrateMortarShellIncendiaryRMC = L53A1 light mortar shells crate (x12 HE-INC)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-AU14CrateMortarShellFlareRMC = L53A1 light mortar shells crate (x12 ILLUM-OBS)
+    .desc = { ent-RMCCrateMortarAmmo.desc }
+ent-AU14CrateMortarShellFlareHEATMP = L53A1 light mortar shells crate (x12 HEAT-MP)
+    .desc = { ent-RMCCrateMortarAmmo.desc }

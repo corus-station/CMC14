@@ -1,0 +1,16 @@
+ent-AU14USCMVeteranCap = USCM Veteran Ball Cap
+    .desc = A black ball cap with the patch of the USCM, surrounded by the words 'USCMC Veteran Semper Fi'
+ent-AU14CivBallCapBlack = Black Ball Cap
+    .desc = A simple ball cap.
+ent-AU14CivFedoraTan = Tan Fedora
+    .desc = A stylish hat.
+ent-AU14CivFedoraBrown = Brown Fedora
+    .desc = A stylish hat.
+ent-AU14CivFedoraGray = Gray Fedora
+    .desc = A stylish hat.
+ent-AU14CivBallCapBlueTrucker = Blue Trucker Ball Cap
+    .desc = A trucker ball cap.
+ent-AU14CivBallCapRedTrucker = Red Trucker Ball Cap
+    .desc = A trucker ball cap.
+ent-AU14HeadPithHelmet = Pith Helmet
+    .desc = A relic of a by-gone era of imperalism, this fashionably plain and simple helmet is a favorite of a certain Big-Game Hunter.

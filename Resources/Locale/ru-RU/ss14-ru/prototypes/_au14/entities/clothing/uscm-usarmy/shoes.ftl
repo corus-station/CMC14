@@ -1,0 +1,12 @@
+ent-AU14BootsJungle = jungle boots
+    .desc = Standard issue USCM jungle boots.
+ent-AU14BootsJungleFilled = { ent-RMCItemSlotM5Bayonet }
+    .suffix = Filled
+    .desc = { ent-RMCItemSlotM5Bayonet.desc }
+ent-AU14BootsUSArmy = army combat boots
+    .desc = Standard issue combat boots for combat scenarios or combat situations. All combat, all the time.
+ent-AU14BootsUSArmyFilled = { ent-RMCItemSlotM5Bayonet }
+    .suffix = Filled
+    .desc = { ent-RMCItemSlotM5Bayonet.desc }
+ent-AU14BootsCBRN = { ent-RMCBootsCBRN }
+    .desc = { ent-RMCBootsCBRN.desc }

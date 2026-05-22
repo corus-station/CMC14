@@ -1,0 +1,9 @@
+ent-AU14GrenadeHighExplosiveUPP = Type 6 fragmentation grenade
+    .suffix = UPP
+    .desc = { ent-CMGrenadeFragOld.desc }
+ent-AU14GrenadeSmokeUPP = RDG-17 smoke grenade
+    .suffix = UPP
+    .desc = { ent-CMGrenadeSmoke.desc }
+ent-AU14GrenadeIncendiaryUPP = Type 8 incendiary grenade
+    .suffix = UPP
+    .desc = { ent-RMCGrenadeIncendiary.desc }
