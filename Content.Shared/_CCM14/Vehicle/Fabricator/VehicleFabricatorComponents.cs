@@ -5,7 +5,7 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom;
 
-namespace Content.Shared._CCM.Vehicle.Fabricator;
+namespace Content.Shared._CCM14.Vehicle.Fabricator;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState(true), AutoGenerateComponentPause]
 [Access(typeof(VehicleFabricatorSystem))]

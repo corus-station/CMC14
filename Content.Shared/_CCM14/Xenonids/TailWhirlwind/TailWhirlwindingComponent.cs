@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._CCM.Xenonids.TailWhirlwind;
+namespace Content.Shared._CCM14.Xenonids.TailWhirlwind;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 [Access(typeof(TailWhirlwindSystem))]

@@ -9,21 +9,21 @@ using Robust.Shared.Audio.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Timing;
 
-namespace Content.Shared._CCM.Xenonids.TailWhirlwind;
+namespace Content.Shared._CCM14.Xenonids.TailWhirlwind;
 
 public sealed class TailWhirlwindSystem : EntitySystem
 {
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly SharedRMCActionsSystem _rmcActions = default!;
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly RotateToFaceSystem _rotateTo = default!;
-    [Dependency] private readonly EntityLookupSystem _entityLookup = default!;
-    [Dependency] private readonly DamageableSystem _damageable = default!;
-    [Dependency] private readonly XenoSystem _xeno = default!;
-    [Dependency] private readonly SharedColorFlashEffectSystem _colorFlash = default!;
-    [Dependency] private readonly RMCSizeStunSystem _size = default!;
-    [Dependency] private readonly SharedInteractionSystem _interact = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private SharedRMCActionsSystem _rmcActions = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private RotateToFaceSystem _rotateTo = default!;
+    [Dependency] private EntityLookupSystem _entityLookup = default!;
+    [Dependency] private DamageableSystem _damageable = default!;
+    [Dependency] private XenoSystem _xeno = default!;
+    [Dependency] private SharedColorFlashEffectSystem _colorFlash = default!;
+    [Dependency] private RMCSizeStunSystem _size = default!;
+    [Dependency] private SharedInteractionSystem _interact = default!;
 
     public override void Initialize()
     {

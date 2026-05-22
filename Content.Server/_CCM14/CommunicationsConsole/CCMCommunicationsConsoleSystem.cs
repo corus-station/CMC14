@@ -1,24 +1,24 @@
 ﻿using Content.Server.Shuttles.Components;
 using Content.Server.Shuttles.Systems;
-using Content.Shared._CCM.CommunicationsConsole;
-using Content.Shared._CCM.CommunicationsConsole.Components;
-using Content.Shared._CCM.CommunicationsConsole.ERT;
-using Content.Shared._CCM.CommunicationsConsole.UI;
+using Content.Shared._CCM14.CommunicationsConsole;
+using Content.Shared._CCM14.CommunicationsConsole.Components;
+using Content.Shared._CCM14.CommunicationsConsole.ERT;
+using Content.Shared._CCM14.CommunicationsConsole.UI;
 using Content.Shared._RMC14.Marines.Announce;
 using Robust.Shared.EntitySerialization.Systems;
 using Robust.Shared.Map.Components;
 using Robust.Shared.Random;
 using Robust.Shared.Utility;
 
-namespace Content.Server._CCM.CommunicationsConsole;
+namespace Content.Server._CCM14.CommunicationsConsole;
 
 public sealed class CCMCommunicationsConsoleSystem : CCMSharedCommunicationsConsoleSystem
 {
-    [Dependency] private readonly SharedMapSystem _mapSystem = default!;
-    [Dependency] private readonly SharedMarineAnnounceSystem _marineAnnounce = default!;
-    [Dependency] private readonly IRobustRandom _random = default!;
-    [Dependency] private readonly ShuttleSystem _shuttle = default!;
-    [Dependency] private readonly MapLoaderSystem _mapLoader = default!;
+    [Dependency] private SharedMapSystem _mapSystem = default!;
+    [Dependency] private SharedMarineAnnounceSystem _marineAnnounce = default!;
+    [Dependency] private IRobustRandom _random = default!;
+    [Dependency] private ShuttleSystem _shuttle = default!;
+    [Dependency] private MapLoaderSystem _mapLoader = default!;
 
     protected override void OnRunMessage(Entity<CCMCommunicationsConsoleComponent> entity,
         ref CCMCommunicationsConsoleERTCallBuiMessage args)

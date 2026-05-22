@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._CCM.Alert;
+namespace Content.Shared._CCM14.Alert;
 
 /// <summary>
 /// When present on a controlled entity, indicates that its HUD should display alerts

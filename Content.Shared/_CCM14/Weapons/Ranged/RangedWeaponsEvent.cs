@@ -1,4 +1,4 @@
-namespace Content.Shared._CCM.Weapons.Ranged;
+namespace Content.Shared._CCM14.Weapons.Ranged;
 
 /// <summary>
 /// Allows systems to override which entity is considered the shooter.

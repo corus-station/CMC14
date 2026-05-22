@@ -2,7 +2,7 @@
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 
-namespace Content.Shared._CCM.CommunicationsConsole.Components;
+namespace Content.Shared._CCM14.CommunicationsConsole.Components;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class CCMCommunicationsConsoleComponent : Component

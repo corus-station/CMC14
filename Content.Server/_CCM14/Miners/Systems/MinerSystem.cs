@@ -1,6 +1,7 @@
-using Content.Shared._CCM.Miners.Components;
-using Content.Shared._CCM.Miners.Events;
-using Content.Shared._CCM.Miners.Systems;
+using System.Linq;
+using Content.Shared._CCM14.Miners.Components;
+using Content.Shared._CCM14.Miners.Events;
+using Content.Shared._CCM14.Miners.Systems;
 using Content.Shared._RMC14.Requisitions;
 using Content.Shared._RMC14.Requisitions.Components;
 using Content.Shared.Audio;
@@ -9,15 +10,15 @@ using Content.Shared.FixedPoint;
 using Robust.Server.Audio;
 using Robust.Shared.Prototypes;
 
-namespace Content.Server._CCM.Miners.Systems;
+namespace Content.Server._CCM14.Miners.Systems;
 
 public sealed class MinerSystem : SharedMinerSystem
 {
-    [Dependency] private readonly DamageableSystem _damageable = null!;
-    [Dependency] private readonly IPrototypeManager _prototype = null!;
-    [Dependency] private readonly SharedRequisitionsSystem _requisitions = null!;
-    [Dependency] private readonly AudioSystem _audio = null!;
-    [Dependency] private readonly SharedAmbientSoundSystem _ambient = null!;
+    [Dependency] private DamageableSystem _damageable = null!;
+    [Dependency] private IPrototypeManager _prototype = null!;
+    [Dependency] private SharedRequisitionsSystem _requisitions = null!;
+    [Dependency] private AudioSystem _audio = null!;
+    [Dependency] private SharedAmbientSoundSystem _ambient = null!;
     private readonly Dictionary<EntProtoId, int?> _crateRewardCache = new();
 
     public override void Initialize()
@@ -67,11 +68,9 @@ public sealed class MinerSystem : SharedMinerSystem
                 didChange = true;
             }
 
-            if (didChange)
-            {
-                Dirty(uid, miner);
-                UpdateAllIcons((uid, miner));
-            }
+            if (!didChange) continue;
+            Dirty(uid, miner);
+            UpdateAllIcons((uid, miner));
         }
     }
 
@@ -200,15 +199,14 @@ public sealed class MinerSystem : SharedMinerSystem
         {
             _damageable.SetAllDamage(uid, damageable, FixedPoint2.Zero);
 
-            foreach (var damageType in damageable.Damage.DamageDict.Keys)
+            foreach (var newDamage in damageable.Damage.DamageDict.Keys.Select(damageType => new DamageSpecifier
+                     {
+                         DamageDict =
+                         {
+                             [damageType] = targetTotalDamage
+                         }
+                     }))
             {
-                var newDamage = new DamageSpecifier
-                {
-                    DamageDict =
-                    {
-                        [damageType] = targetTotalDamage
-                    }
-                };
                 _damageable.TryChangeDamage(uid, newDamage, true, false);
                 break;
             }

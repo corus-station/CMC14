@@ -1,6 +1,6 @@
 ﻿using Robust.Shared.GameStates;
 
-namespace Content.Shared._CCM.Miners.Components;
+namespace Content.Shared._CCM14.Miners.Components;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class MinerModuleComponent : Component

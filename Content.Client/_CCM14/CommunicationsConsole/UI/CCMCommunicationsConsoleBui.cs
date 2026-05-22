@@ -1,8 +1,8 @@
-﻿using Content.Shared._CCM.CommunicationsConsole.UI;
+﻿using Content.Shared._CCM14.CommunicationsConsole.UI;
 using JetBrains.Annotations;
 using Robust.Client.UserInterface;
 
-namespace Content.Client._CCM.CommunicationsConsole.UI;
+namespace Content.Client._CCM14.CommunicationsConsole.UI;
 
 [UsedImplicitly]
 public sealed class CCMCommunicationsConsoleBui(EntityUid owner, Enum uiKey) : BoundUserInterface(owner, uiKey)

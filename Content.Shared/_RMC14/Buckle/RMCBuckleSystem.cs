@@ -14,7 +14,7 @@ namespace Content.Shared._RMC14.Buckle;
 
 public sealed partial class RMCBuckleSystem : EntitySystem
 {
-    [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private SharedAppearanceSystem _appearance = default!;
     [Dependency] private SharedBuckleSystem _buckle = default!;
     [Dependency] private SharedCrashLandSystem _crashLand = default!;
     [Dependency] private EntityLookupSystem _entityLookup = default!;

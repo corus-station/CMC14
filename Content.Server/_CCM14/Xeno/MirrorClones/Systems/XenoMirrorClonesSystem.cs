@@ -1,17 +1,17 @@
 using System.Numerics;
-using Content.Server._CCM.Xeno.MirrorClones.Components;
-using Content.Shared._CCM.Actions.Events;
-using Content.Shared._CCM.Xenonids.MirrorClones;
+using Content.Server._CCM14.Xeno.MirrorClones.Components;
+using Content.Shared._CCM14.Actions.Events;
+using Content.Shared._CCM14.Xenonids.MirrorClones;
 using Content.Shared._RMC14.Actions;
 using Content.Shared._RMC14.Xenonids.Plasma;
 
-namespace Content.Server._CCM.Xeno.MirrorClones.Systems;
+namespace Content.Server._CCM14.Xeno.MirrorClones.Systems;
 
 public sealed class XenoMirrorClonesSystem : EntitySystem
 {
-    [Dependency] private readonly SharedRMCActionsSystem _rmcActions = default!;
-    [Dependency] private readonly XenoPlasmaSystem _xenoPlasma = default!;
-    
+    [Dependency] private SharedRMCActionsSystem _rmcActions = default!;
+    [Dependency] private XenoPlasmaSystem _xenoPlasma = default!;
+
     private const float ActiveSeconds = 10f;
     private const int ExtraDamage = 5;
 

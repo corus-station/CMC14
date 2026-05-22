@@ -1,7 +1,7 @@
 using System.Linq;
 using System.Numerics;
 using Content.Client.Message;
-using Content.Shared._CCM.Vehicle.Fabricator;
+using Content.Shared._CCM14.Vehicle.Fabricator;
 using Robust.Client.Graphics;
 using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
@@ -9,7 +9,7 @@ using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 
-namespace Content.Client._CCM.Vehicle.Fabricator.Fabricator;
+namespace Content.Client._CCM14.Vehicle.Fabricator.Fabricator;
 
 public sealed class VehicleFabricatorWindow : DefaultWindow
 {

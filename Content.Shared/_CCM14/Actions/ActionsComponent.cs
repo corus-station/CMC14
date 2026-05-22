@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._CCM.Actions;
+namespace Content.Shared._CCM14.Actions;
 
 /// <summary>
 /// CCM: When present on a controlled entity, indicates that its HUD should also display actions

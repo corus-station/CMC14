@@ -1,4 +1,4 @@
-using Content.Server._CCM.Xeno.MirrorClones.Components;
+using Content.Server._CCM14.Xeno.MirrorClones.Components;
 using Content.Shared.Damage;
 using Content.Shared.FixedPoint;
 using Content.Shared._RMC14.Xenonids;
@@ -6,12 +6,12 @@ using Content.Shared.Weapons.Melee;
 using Content.Shared.Weapons.Melee.Events;
 using Robust.Shared.Timing;
 
-namespace Content.Server._CCM.Xeno.MirrorClones.Systems;
+namespace Content.Server._CCM14.Xeno.MirrorClones.Systems;
 
 public sealed class MirrorCloneMimicAttackSystem : EntitySystem
 {
-    [Dependency] private readonly DamageableSystem _damageable = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
+    [Dependency] private DamageableSystem _damageable = default!;
+    [Dependency] private IGameTiming _timing = default!;
 
     private const string ExtraDamageTypeId = "Cellular";
     private readonly Dictionary<EntityUid, TimeSpan> _recentExtra = new();

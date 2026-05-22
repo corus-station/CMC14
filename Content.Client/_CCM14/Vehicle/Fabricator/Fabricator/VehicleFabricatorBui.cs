@@ -1,9 +1,9 @@
 using System.Linq;
-using Content.Shared._CCM.Vehicle.Fabricator;
+using Content.Shared._CCM14.Vehicle.Fabricator;
 using Robust.Client.UserInterface;
 using Robust.Shared.Prototypes;
 
-namespace Content.Client._CCM.Vehicle.Fabricator.Fabricator;
+namespace Content.Client._CCM14.Vehicle.Fabricator.Fabricator;
 
 public sealed class VehicleFabricatorBui : BoundUserInterface
 {

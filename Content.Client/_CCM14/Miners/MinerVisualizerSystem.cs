@@ -1,11 +1,11 @@
-﻿using Content.Shared._CCM.Miners.Components;
+﻿using Content.Shared._CCM14.Miners.Components;
 using Robust.Client.GameObjects;
 
-namespace Content.Client._CCM.Miners;
+namespace Content.Client._CCM14.Miners;
 
 public sealed class MinerVisualizerSystem : VisualizerSystem<MinerComponent>
 {
-    [Dependency] private readonly SpriteSystem _sprite = null!;
+    [Dependency] private SpriteSystem _sprite = null!;
 
     protected override void OnAppearanceChange(EntityUid uid, MinerComponent component, ref AppearanceChangeEvent args)
     {

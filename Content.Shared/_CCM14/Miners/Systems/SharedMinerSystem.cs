@@ -1,5 +1,5 @@
-using Content.Shared._CCM.Miners.Components;
-using Content.Shared._CCM.Miners.Events;
+using Content.Shared._CCM14.Miners.Components;
+using Content.Shared._CCM14.Miners.Events;
 using Content.Shared._RMC14.Marines.Skills;
 using Content.Shared._RMC14.TacticalMap;
 using Content.Shared.Damage;
@@ -12,17 +12,17 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 
-namespace Content.Shared._CCM.Miners.Systems;
+namespace Content.Shared._CCM14.Miners.Systems;
 
 public abstract class SharedMinerSystem : EntitySystem
 {
     private static readonly EntProtoId<SkillDefinitionComponent> EngineerSkill = "RMCSkillEngineer";
-    [Dependency] private readonly SharedAppearanceSystem _appearance = null!;
-    [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
-    [Dependency] private readonly SkillsSystem _rmcSkills = null!;
-    [Dependency] private readonly SharedToolSystem _tool = null!;
-    [Dependency] protected readonly SharedPopupSystem Popup = null!;
-    [Dependency] protected readonly IGameTiming Timing = null!;
+    [Dependency] private SharedAppearanceSystem _appearance = null!;
+    [Dependency] private SharedDoAfterSystem _doAfter = default!;
+    [Dependency] private SkillsSystem _rmcSkills = null!;
+    [Dependency] private SharedToolSystem _tool = null!;
+    [Dependency] protected SharedPopupSystem Popup = null!;
+    [Dependency] protected IGameTiming Timing = null!;
 
     public override void Initialize()
     {

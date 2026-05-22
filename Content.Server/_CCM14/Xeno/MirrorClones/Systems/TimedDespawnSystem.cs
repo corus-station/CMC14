@@ -1,6 +1,6 @@
-using Content.Server._CCM.Xeno.MirrorClones.Components;
+using Content.Server._CCM14.Xeno.MirrorClones.Components;
 
-namespace Content.Server._CCM.Xeno.MirrorClones.Systems;
+namespace Content.Server._CCM14.Xeno.MirrorClones.Systems;
 
 public sealed class TimedDespawnSystem : EntitySystem
 {

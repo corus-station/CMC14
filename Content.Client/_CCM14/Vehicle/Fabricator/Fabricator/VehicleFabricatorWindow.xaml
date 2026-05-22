@@ -1,7 +1,7 @@
 <fabricator:VehicleFabricatorWindow
     xmlns="https://spacestation14.io"
     xmlns:graphics="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
-    xmlns:fabricator="clr-namespace:Content.Client._CCM.Vehicle.Fabricator.Fabricator"
+    xmlns:fabricator="clr-namespace:Content.Client._CCM14.Vehicle.Fabricator.Fabricator"
     Title="{Loc 'rmc-vehicle-fabricator-window-title'}"
     MinSize="1100 600">
     <PanelContainer HorizontalExpand="True" VerticalExpand="True">

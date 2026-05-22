@@ -1,6 +1,6 @@
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared._CCM.Vehicle.Fabricator;
+namespace Content.Shared._CCM14.Vehicle.Fabricator;
 
 public static class VehicleFabricatorUtils
 {

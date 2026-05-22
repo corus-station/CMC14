@@ -1,6 +1,6 @@
 ﻿using Robust.Shared.Serialization;
 
-namespace Content.Shared._CCM.Vehicle.Fabricator;
+namespace Content.Shared._CCM14.Vehicle.Fabricator;
 
 [Serializable]
 [NetSerializable]

@@ -5,7 +5,7 @@
   suffix: CCM-Boxer
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Warrior/boxer.rsi
+    sprite: _CCM14/Mobs/Xenonids/Warrior/boxer.rsi
   - type: XenoStrain
     name: ccm-xeno-boxer-name
     description: ccm-xeno-boxer-description
@@ -121,7 +121,7 @@
   suffix: CCM-Melee
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Sentinel/melee.rsi
+    sprite: _CCM14/Mobs/Xenonids/Sentinel/melee.rsi
   - type: XenoStrain
     name: ccm-xeno-meleesent-name
     description: ccm-xeno-meleesent-description
@@ -185,7 +185,7 @@
   suffix: CCM-Ranger
   components:
   - type: Sprite
-    sprite: _RMC14/Mobs/Xenonids/Sentinel/ranger.rsi
+    sprite: _CCM14/Mobs/Xenonids/Sentinel/ranger.rsi
   - type: XenoStrain
     name: ccm-xeno-rangersent-name
     description: ccm-xeno-rangersent-description

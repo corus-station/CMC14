@@ -1,7 +1,7 @@
-﻿using Content.Shared._CCM.CommunicationsConsole.Components;
-using Content.Shared._CCM.CommunicationsConsole.UI;
+﻿using Content.Shared._CCM14.CommunicationsConsole.Components;
+using Content.Shared._CCM14.CommunicationsConsole.UI;
 
-namespace Content.Shared._CCM.CommunicationsConsole;
+namespace Content.Shared._CCM14.CommunicationsConsole;
 
 public abstract class CCMSharedCommunicationsConsoleSystem : EntitySystem
 {

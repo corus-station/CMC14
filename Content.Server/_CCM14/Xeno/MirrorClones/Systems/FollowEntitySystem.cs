@@ -1,10 +1,10 @@
-using Content.Server._CCM.Xeno.MirrorClones.Components;
+using Content.Server._CCM14.Xeno.MirrorClones.Components;
 
-namespace Content.Server._CCM.Xeno.MirrorClones.Systems;
+namespace Content.Server._CCM14.Xeno.MirrorClones.Systems;
 
 public sealed class FollowEntitySystem : EntitySystem
 {
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
 
     public override void Update(float frameTime)
     {

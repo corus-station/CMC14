@@ -40,8 +40,10 @@
   - type: Damageable
     damageContainer: Inorganic
   - type: TacticalMapTracked
-  - type: TacticalMapLayerTracked
-    layers: [Marines, Xenos]
+  - type: MarineMapTracked
+  - type: XenoMapTracked
+  #- type: TacticalMapLayerTracked
+  #  layers: [Marines, Xenos]
 
 - type: entity
   parent: CCMMinerBase

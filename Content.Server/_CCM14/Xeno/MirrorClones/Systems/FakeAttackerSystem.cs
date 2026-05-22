@@ -1,14 +1,14 @@
-using Content.Server._CCM.Xeno.MirrorClones.Components;
+using Content.Server._CCM14.Xeno.MirrorClones.Components;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Map;
 using Robust.Shared.Physics.Components;
 
-namespace Content.Server._CCM.Xeno.MirrorClones.Systems;
+namespace Content.Server._CCM14.Xeno.MirrorClones.Systems;
 
 public sealed class FakeAttackerSystem : EntitySystem
 {
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
 
     public override void Update(float frameTime)
     {

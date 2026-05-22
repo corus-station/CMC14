@@ -106,8 +106,10 @@
       sprite: _CCM14/Interface/map_blips.rsi
       state: nuke
   - type: TacticalMapTracked
-  - type: TacticalMapLayerTracked
-    layers: [Marines, Xenos]
+  - type: MarineMapTracked
+  - type: XenoMapTracked
+  #- type: TacticalMapLayerTracked
+  #  layers: [Marines, Xenos]
   - type: PowerLoaderGrabbable
     virtualRight: RMCVirtualWarheadRightAegis
     virtualLeft: RMCVirtualWarheadLeftAegis

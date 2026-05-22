@@ -2,7 +2,7 @@
 using Robust.Client.UserInterface.CustomControls;
 using Robust.Client.UserInterface.XAML;
 
-namespace Content.Client._CCM.CommunicationsConsole.UI;
+namespace Content.Client._CCM14.CommunicationsConsole.UI;
 
 [GenerateTypedNameReferences]
 public sealed partial class CCMCommunicationsConsoleWindow : DefaultWindow
