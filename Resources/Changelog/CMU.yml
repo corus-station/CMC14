@@ -1,3 +1,22 @@
-Entries: []
+﻿Entries:
+- author: maertayn
+  changes:
+  - message: Added changelog.
+    type: Add
+  - message: Removed changelog.
+    type: Remove
+  - message: Tweaked the changelog.
+    type: Tweak
+  - message: Fixed the changelogs.
+    type: Fix
+  - message: Mapped a changelog.
+    type: Map
+  - message: Coded a changelog.
+    type: Code
+  - message: Administered a changelog.
+    type: Admin
+  id: 1
+  time: '2025-06-02T10:00:00.0000000+00:00'
+  url: https://github.com/AU-14/ColonialMarinesUniverse/pull/992
 Name: CMU
 Order: -1
